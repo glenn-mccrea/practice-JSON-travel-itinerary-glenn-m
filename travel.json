@@ -1,10 +1,12 @@
 {
   "travelOptions": {
     "tripName": "A Day at the Mountains",
-    "travelerName": "Bob Barker",
-    "contactInfo": {
-      "email": "bbarker@thepriceisright.com",
-      "phone": 5555555555
+    "traveler": {
+      "name": "Bob Barker",
+      "contactInfo": {
+        "email": "bbarker@thepriceisright.com",
+        "phone": 5555555555
+      }
     },
     "destinations": [
       {
