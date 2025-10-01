@@ -1,0 +1,44 @@
+{
+  "travelOptions": {
+    "tripName": "A Day at the Mountains",
+    "travelerName": "Bob Barker",
+    "contactInfo": {
+      "email": "bbarker@thepriceisright.com",
+      "phone": 5555555555
+    },
+    "destinations": [
+      {
+        "destination": "Aspen Skiing",
+        "location": "Aspen, CO",
+        "arrivalDate": "2026-12-12",
+        "departureDate": "2026-12-16",
+        "activities": [
+          {
+            "activityName": "Skiing",
+            "activityTime": "10:00 AM"
+          },
+          {
+            "activityName": "Hot Chocolate Drinking Competition",
+            "activityTime": "7:00 PM"
+          }
+        ]
+      },
+      {
+        "destination": "Rocky Mountain National Park",
+        "location": "Estes Park",
+        "arrivalDate": "2026-12-16",
+        "departureDate": "2026-12-25",
+        "activities": [
+          {
+            "activityName": "Hiking",
+            "activityTime": "09:30 AM"
+          },
+          {
+            "activityName": "Hot Chocolate Drinking Competition Semi-Finals",
+            "activityTime": "19:30 PM"
+          }
+        ]
+      }
+    ]
+  }
+}
