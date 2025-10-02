@@ -14,6 +14,10 @@
         "location": "Aspen, CO",
         "arrivalDate": "2026-12-12",
         "departureDate": "2026-12-16",
+        "transportation": {
+          "mode": "car",
+          "cost": 275
+        },
         "activities": [
           {
             "activityName": "Skiing",
@@ -30,6 +34,10 @@
         "location": "Estes Park",
         "arrivalDate": "2026-12-16",
         "departureDate": "2026-12-25",
+        "transportation": {
+          "mode": "flight",
+          "cost": 300
+        },
         "activities": [
           {
             "activityName": "Hiking",
@@ -37,7 +45,27 @@
           },
           {
             "activityName": "Hot Chocolate Drinking Competition Semi-Finals",
-            "activityTime": "19:30 PM"
+            "activityTime": "07:30 PM"
+          }
+        ]
+      },
+      {
+        "destination": "Spain",
+        "location": "Barcelona",
+        "arrivalDate": "2025-12-16",
+        "departureDate": "2025-12-25",
+        "transportation": {
+          "mode": "International Flight",
+          "cost": 1000
+        },
+        "activities": [
+          {
+            "activityName": "Football",
+            "activityTime": "7:00 PM"
+          },
+          {
+            "activityName": "Park Guell",
+            "activityTime": "10:30 AM"
           }
         ]
       }
